@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **vedofair Role-Play Chat**
 
-- 🌱 I’m currently learning **Vue + axios + Rest architecture**
+- 🌱 I’m currently learning **Vue + Rest architecture**
 
 - 👯 I’m looking to collaborate on **Symfony + Vue**
 

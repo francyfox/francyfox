@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@francyfox" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/telegram-app.png" alt="@francyfox" height="30" width="40" /></a>
+<a href=""https://telegram.me/francyfox" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/telegram-app.png" alt="@francyfox" height="30" width="40" />@francyfox</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

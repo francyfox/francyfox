@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
-<h3 align="center">Frontend Developer in Kazakhstan</h3>
+<h3 align="center">Full-stack Developer</h3>
 
-- 🔭 I’m currently working on **vedofair Role-Play Chat**
+- 🔭 I’m currently working on ** 404 nothing found **
 
-- 🌱 I’m currently learning **Vue + Rest architecture**
+- 🌱 I’m currently learning **SOAP, SQL, PHP-FIG**
 
 - 👯 I’m looking to collaborate on **Symfony + Vue**
 
 - 📫 How to reach me **7info7web@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">my Telegram:</h3>
 <p align="left">
 <a href=""https://telegram.me/francyfox" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/telegram-app.png" alt="@francyfox" height="25" width="25" />  @francyfox</a>
 </p>

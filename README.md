@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
-<h3 align="center">Full-stack Developer</h3>
+<h3 align="center">Full-stack russian Developer living in Qazaqstan</h3>
 
-- 🔭 I’m currently working on ** 404 nothing found **
+- 🔭 I’m currently working on ** Drupal Theme **
 
 - 🌱 I’m currently learning **SOAP, SQL, PHP-FIG**
 

@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
-<h3 align="center">Full-stack russian Developer living in Qazaqstan</h3>
+<h3 align="center">Frontend russian Developer living in Qazaqstan</h3>
 
-- 🔭 I’m currently working on **Drupal Theme**
-
-- 🌱 I’m currently learning **SOAP, SQL, PHP-FIG**
-
-- 👯 I’m looking to collaborate on **Symfony + Vue**
+Im moved to gitlab and this code is old
 
 - 📫 How to reach me **7info7web@gmail.com**
 

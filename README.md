@@ -7,7 +7,7 @@
 
 <h3 align="left">my Telegram:</h3>
 <p align="left">
-<a href=""https://telegram.me/francyfox" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/telegram-app.png" alt="@francyfox" height="25" width="25" />  @francyfox</a>
+<a href="https://t.me/francyfox" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/telegram-app.png" alt="@francyfox" height="25" width="25" />  @francyfox</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

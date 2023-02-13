@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">Frontend russian Developer living in Qazaqstan</h3>
+<h4 align="center"><a align="center" href="https://gitlab.com/francyfox">My gitlab</a></h3>
 
-<a align="center" href="https://gitlab.com/francyfox">My gitlab</a>
 
 - 📫 How to reach me **7info7web@gmail.com** 
-
-Always check <a href="https://t.me/francyfox">Telegram</a>
 
 <h3 align="left">my Telegram:</h3>
 <p align="left">

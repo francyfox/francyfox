@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
-<h3 align="center">Frontend russian Developer from Qazaqstan</h3>
+<h3 align="center">Frontend Developer from Qazaqstan</h3>
 <h4 align="center"><a align="center" href="https://gitlab.com/francyfox">My gitlab</a></h3>
 
 

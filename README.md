@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">Frontend Developer from Qazaqstan</h3>
-<h3 align="center"><a align="center" href="https://signarius.vercel.app/portfolio">My portfolio</a></h3>
+<h3 align="center"><a align="center" href="https://signarius.netlify.app/portfolio">My portfolio</a></h3>
 <h4 align="center"><a align="center" href="https://gitlab.com/francyfox">My gitlab</a></h3>
 
 

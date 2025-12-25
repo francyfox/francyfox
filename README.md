@@ -2,9 +2,6 @@
 <h3 align="center">Frontend Developer from Qazaqstan</h3>
 <h3 align="center"><a align="center" href="https://portfolio.shalotts.site">My portfolio</a></h3>
 <h4 align="center"><a align="center" href="https://gitlab.com/francyfox">My gitlab</a></h3>
-<h4 align="center"><a align="center" href="https://github.com/francyfox/BunSqStat">Current project - BunSqStats</a></h3>
-<h3 align="center"><a align="center" href="https://github.com/shalotts/shalotts">Shallots ecosystem</a></h3>
-
 
 - 📫 How to reach me **7info7web@gmail.com**
 

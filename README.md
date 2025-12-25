@@ -8,7 +8,8 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href='https://ko-fi.com/K3K86MI87' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-  <iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=1ESC1PAR0JV.251225&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>​
+  <a href='https://yoomoney.ru/to/4100117723555722' target='_black'><img height='36' style='border:0px;height:36px;' alt="Buy Me a Coffee at YooMoney" src="https://github.com/user-attachments/assets/71a0db63-14e9-4610-b5fb-605835179fc6" />
+</a>​
 </div>
 
 
